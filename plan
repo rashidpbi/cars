@@ -1,0 +1,18 @@
+slice 1 Form Slice
+name,
+cost 
+
+changeName,
+changeCost
+
+
+155339
+
+slice 2 Cars Slice
+
+searchTerm,
+cars,
+
+changeTerm,
+addCar,
+deleteCar
